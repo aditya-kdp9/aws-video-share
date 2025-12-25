@@ -1,1 +1,1 @@
-Hello this project is build with AI and python fast API
+Hello this project is build with AWS, DynamoDb, mediashare etc
