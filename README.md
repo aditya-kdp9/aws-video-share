@@ -1,0 +1,1 @@
+Hello this project is build with AI and python fast API
